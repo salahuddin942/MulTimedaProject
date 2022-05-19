@@ -1,0 +1,5 @@
+tagRectMap.put(R.string.name, buildRect(cardRect, 0.174f, 0.115f, 0.120f, 0.160f));  // 姓名
+        tagRectMap.put(R.string.sex, buildRect(cardRect, 0.176f, 0.569f, 0.120f, 0.160f));  // 性别
+        tagRectMap.put(R.string.ethnicity, buildRect(cardRect, 0.379f, 0.115f, 0.120f, 0.160f));  // 民族
+
+        tagRectMap.put(R.string.address, buildRect(cardRect, 0.379f, 0.569f, 0.120f, 0.160f)); // 住址
